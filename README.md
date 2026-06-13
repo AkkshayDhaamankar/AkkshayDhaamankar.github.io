@@ -1,8 +1,8 @@
 # AkkshayDhaamankar.github.io
 
 iOS :- 
-privacy-policy.html
-support.html
+1. privacy-policy.html
+2. support.html
 
 
 Android :-
